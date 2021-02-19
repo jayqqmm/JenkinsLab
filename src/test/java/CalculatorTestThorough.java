@@ -56,7 +56,7 @@ public class CalculatorTestThorough {
     public void divideByZeroFailure(){
         Calculator myCalculator = new Calculator();
 
-        String failureMessage =  "divide by zero";
+        String failureMessage =  "/ by zero";
         for(int i = 1 ; i < 100000 ; i++){
             try{
 

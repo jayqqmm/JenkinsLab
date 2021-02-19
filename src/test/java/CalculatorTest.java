@@ -59,7 +59,7 @@ public class CalculatorTest {
     public void divideByZeroFailure(){
         Calculator myCalculator = new Calculator();
 
-        String failureMessage =  "divide by zero";
+        String failureMessage =  "/ by zero";
 
         try{
             myCalculator.divide(5, 0);
