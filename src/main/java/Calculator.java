@@ -68,7 +68,7 @@ class Calculator {
      */
     String createUniqueID(String n){
         String AlphaNumericString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-                + "0123456789"
+                + "012345678910"
                 + "abcdefghijklmnopqrstuvxyz";
         StringBuilder sb = new StringBuilder(n);
 

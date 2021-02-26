@@ -1,3 +1,8 @@
 
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8«¢¼û.
+F
+java:S2140Q")Use "java.util.Random.nextInt()" instead.(™†Ş…8áØ¢¼û.
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïğ„´8«¢¼û.
 €
 java:S14889"^Immediately return this expression instead of assigning it to the temporary variable "result".(ßÂ´ùÿÿÿÿ8¸×Í»û.
